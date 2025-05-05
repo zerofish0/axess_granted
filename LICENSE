@@ -1,24 +1,17 @@
-This is free and unencumbered software released into the public domain.
+# LICENCE D’UTILISATION LIBRE AVEC ATTRIBUTION ET DÉCHARGE DE RESPONSABILITÉ
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright © Zerofish0 – 2025
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Le présent logiciel est mis à disposition gratuitement. Toute personne est autorisée à l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le vendre ou l'exploiter de quelque manière que ce soit, à condition de respecter les conditions suivantes :
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## 1. Attribution
+Le nom de l’auteur original (Zerofish0) doit être mentionné de manière claire dans toute redistribution ou utilisation publique du code, y compris dans les versions modifiées.
 
-For more information, please refer to <https://unlicense.org>
+
+## 2. Décharge de responsabilité
+Ce logiciel est fourni "tel quel", sans aucune garantie d’aucune sorte, explicite ou implicite, y compris mais sans s’y limiter aux garanties de qualité marchande, d’adéquation à un usage particulier, ou d’absence d’erreur.
+L’auteur ne pourra en aucun cas être tenu responsable de tout dommage direct ou indirect résultant de l’utilisation de ce logiciel, y compris si le logiciel est utilisé en violation de lois ou de conditions d’utilisation tierces.
+
+
+## 3. Responsabilité de l’utilisateur
+L’utilisateur est seul responsable de vérifier qu’il a le droit légal d’utiliser le logiciel dans son contexte d’utilisation (ex. scraping, automatisation, etc.).
