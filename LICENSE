@@ -1,17 +1,37 @@
-# LICENCE D’UTILISATION LIBRE AVEC ATTRIBUTION ET DÉCHARGE DE RESPONSABILITÉ
+MIT License (modifiée avec clause spéciale de non-responsabilité)
 
-Copyright © Zerofish0 – 2025
+Copyright (c) 2025 Zerofish0
 
-Le présent logiciel est mis à disposition gratuitement. Toute personne est autorisée à l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le vendre ou l'exploiter de quelque manière que ce soit, à condition de respecter les conditions suivantes :
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 1. Attribution
-Le nom de l’auteur original (Zerofish0) doit être mentionné de manière claire dans toute redistribution ou utilisation publique du code, y compris dans les versions modifiées.
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-## 2. Décharge de responsabilité
-Ce logiciel est fourni "tel quel", sans aucune garantie d’aucune sorte, explicite ou implicite, y compris mais sans s’y limiter aux garanties de qualité marchande, d’adéquation à un usage particulier, ou d’absence d’erreur.
-L’auteur ne pourra en aucun cas être tenu responsable de tout dommage direct ou indirect résultant de l’utilisation de ce logiciel, y compris si le logiciel est utilisé en violation de lois ou de conditions d’utilisation tierces.
+=== SPECIAL DISCLAIMER OF LIABILITY ===
 
+This software interacts with a third-party website (specifically, the internal platform of an educational institution) using a technique known as web scraping.
 
-## 3. Responsabilité de l’utilisateur
-L’utilisateur est seul responsable de vérifier qu’il a le droit légal d’utiliser le logiciel dans son contexte d’utilisation (ex. scraping, automatisation, etc.).
+The author, under the pseudonym "Zerofish0":
+- is not affiliated with or endorsed by the institution in question;
+- does not encourage or condone any use that violates the website’s terms of service;
+- provides this software **strictly for educational and experimental purposes**.
+
+**The user assumes full responsibility** for how they choose to use this software. It is the user's duty to verify that their usage is in compliance with applicable laws (including but not limited to GDPR, copyright laws, and cybersecurity legislation) and with the terms of use of the target website.
+
+Any abusive, automated, or unauthorized interaction with the source site is solely the responsibility of the user. The author cannot be held liable under any circumstance.
+
+USE AT YOUR OWN RISK.
+
